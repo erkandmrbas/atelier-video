@@ -1,0 +1,17 @@
+{
+  "name": "atelier-video",
+  "version": "0.1.0",
+  "description": "Produce videos with Claude Code like a workshop: transcript first, map every segment, lock the brand, dispatch parallel segment workers, render through one queue, and let nothing ship without an independent gate.",
+  "author": {
+    "name": "Erkan"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "orchestration",
+    "subagents",
+    "project-management",
+    "quality-gates",
+    "video"
+  ]
+}
